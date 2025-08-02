@@ -1,0 +1,175 @@
+body
+{
+    font-family: 'Nanum Gothic', sans-serif;
+    width: 99%;
+}
+
+img
+{
+    width: 100%;
+}
+
+#nav
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 1vw;
+    font-weight: bold;
+}
+
+.nav-item
+{
+    padding: 1vw;
+}
+
+#promo
+{
+    background-color: white;
+}
+
+#promo-text
+{
+    text-align: center;
+    display:block;
+    position: absolute;
+    font-size: 2.2vw;
+    width: 35%;
+}
+
+#promo-header
+{
+    font-weight: 0;
+    margin-left: 10vw ;
+    color:rgb(54, 104, 105)
+}
+hr
+{
+    width: 100%;
+    border: 2px solid rgb(82, 162, 163);  
+}
+
+#promo-p
+{
+    margin-top: 3vw;
+    margin-left: 10vw;
+}
+
+#promo-btn-group
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10vw;
+}
+
+@media only screen and (max-width: 600px) {
+    
+  }
+
+button
+{
+    font-size: 1.2vw;
+    padding: 0.5vw;
+    font-weight: 0;
+    margin: 1vw;
+    font-family: 'Nanum Gothic', sans-serif;
+    width: 100%;
+    border:1px solid gray;
+    border-radius: 0.5vw;
+}
+
+#btn-1
+{
+    background-color: rgb(82, 162, 163);
+}
+
+#btn-2
+{
+    background-color: white;
+}
+
+#sec-2
+{
+    background-color: rgb(248, 241, 229);
+    padding: 1vw;
+}
+
+.title
+{
+    padding: 0.1ch;
+    border: 1px solid white;
+    border-radius: 0.5vw;
+    font-size: 0.9vw;
+    background-color: white;
+    text-align: center;
+}
+
+#product-text
+{
+    font-size: 2vw;
+    margin-top: 2vw;
+    text-align: center;
+    width: 40%;
+    display: block;
+    margin-left: 28vw;
+}
+
+#product-cards
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.card
+{
+    margin: 2vw;
+    padding: 1vw;
+    border: 1px solid rgb(244, 248, 250);
+    font-size: 1vw;
+    text-align: center;
+    border-radius: 0.5ch;
+    background-color: rgb(244, 248, 250);
+    box-shadow: 0.3ch 0.2ch 0.2ch lightslategray;
+}
+
+#sec-3
+{
+    background-color: rgb(192, 214, 182);
+    padding: 1vw;
+}
+
+#transport
+{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5vw;
+}
+
+#transport-details
+{
+    width: 50%;
+    padding: 4vw;
+    font-size: 2vw;
+    text-align: center;
+}
+
+#transport-pic
+{
+    width: 50%;
+}
+#transport-btns
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.trans-btn
+{
+    width: 25%;
+    
+}
