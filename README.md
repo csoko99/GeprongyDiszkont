@@ -1,6 +1,11 @@
 **GeprongyDiszkont – Static HTML Project**
 
-This is a simple static HTML/CSS webpage I created upon request from a family member. It represents one of my earliest web design experiments, with a focus on responsive layout and clean presentation.
+ℹ️ About
+A static website created for a family member, used as a practical exercise to develop full responsiveness using core web technologies.
+
+🔑 Key features: 
+- Clean design
+- Mobile-optimized layout.
 
 ✨ Project Highlights
 - 📱 Fully responsive layout – optimized for mobile and desktop
