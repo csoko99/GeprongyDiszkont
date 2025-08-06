@@ -1,6 +1,7 @@
 **GeprongyDiszkont – Static HTML Project**
 
 ℹ️ About
+
 A static website created for a family member, used as a practical exercise to develop full responsiveness using core web technologies.
 
 🔑 Key features: 
